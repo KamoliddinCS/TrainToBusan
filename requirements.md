@@ -1,8 +1,4 @@
-# Train to Busan Requirements
-
-## Project Title
-
-Train to Busan
+# Train to Busan: Requirements
 
 ## Overview
 
