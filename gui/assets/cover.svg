@@ -1,0 +1,14 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="crateWood" x1="16" y1="16" x2="108" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C99A67"/>
+      <stop offset="1" stop-color="#7A5430"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="96" height="96" rx="18" fill="url(#crateWood)" stroke="#E8C296" stroke-width="5"/>
+  <path d="M30 38H98" stroke="#69472A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M30 64H98" stroke="#69472A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M30 90H98" stroke="#69472A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M38 28L90 100" stroke="#F5DBB7" stroke-width="6" stroke-linecap="round"/>
+  <path d="M90 28L38 100" stroke="#5D3E25" stroke-width="6" stroke-linecap="round"/>
+</svg>
